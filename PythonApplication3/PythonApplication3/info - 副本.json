@@ -1,0 +1,113 @@
+{
+  "abstract": "The purpose of this study is to develop a learning tool for high school students studying the scientific aspects of information and communication net- works. More specifically, we focus on the basic principles of network proto- cols as the aim to develop our learning tool. Our tool gives students hands-on experience to help understand the basic principles of network protocols.",
+  "authors": [ "Makoto Satoh", "Ryo Muramatsu", "Mizue Kayama", "Kazunori Itoh", "Masami Hashimoto", "Makoto Otani", "Michio Shimizu", "Masahiko Sugimoto" ],
+  "references": [ "51c7e02e-f5ed-431a-8cf5-f761f266d4be", "69b625b9-ebc5-4b60-b385-8a07945f5de9" ],
+  "title": "Preliminary Design of a Network Protocol Learning Tool Based on the Comprehension of High School Students: Design by an Empirical Study Using a Simple Mind Map",
+  "venue": "international conference on human-computer interaction",
+  "year": 2013,
+  "id": "00127ee2-cb05-48ce-bc49-9de556b93346"
+} {
+  "abstract": "This paper describes the design and implementation of a methodology for the visualisation and hypothetical virtual reconstruction of Roman polychrome statuary for research purposes. The methodology is intended as an attempt to move beyond visualisations which are simply believable towards a more physically accurate approach. Accurate representations of polychrome statuary have great potential utility both as a means of illustrating existing interpretations and as a means of testing and revising developing hypotheses. The goal of this methodology is to propose a pipeline which incorporates a high degree of physical accuracy whilst also being practically applicable in a conventional archaeological research setting. The methodology is designed to allow the accurate visualisation of surviving objects and colourants as well as providing reliable methods for the hypothetical reconstruction of elements which no longer survive. The process proposed here is intended to limit the need for specialist recording equipment, utilising existing data and those data which can be collected using widely available technology. It is at present being implemented as part of the 'Statues in Context' project at Herculaneum and will be demonstrated here using the case study of a small area of the head of a painted female statue discovered at Herculaneum in 2006.",
+  "authors": [ "Gareth Beale", "Graeme Earl" ],
+  "references": [ "10482dd3-4642-4193-842f-85f3b70fcf65", "3133714c-f979-4d84-9224-97361cf053ab", "3a926fef-7422-4654-8776-8e31b45be563", "52f480e8-85e6-4c01-9e5b-d75eabf6a8ec", "6f52f995-7c4c-4a92-83aa-d1c9fbd2465c", "8bd964d6-c45f-448c-9e65-efe5f98ca0a0", "8fa0a362-6522-48fc-bd5e-24de00ed6511", "9bfa8c24-8fb6-44d9-ba42-38b22f9cf34b", "b57cc9ef-64b6-479d-9918-5f283af3219d", "b678b546-e867-4a57-8963-c5545b04f32d", "e5c40bf5-7ee2-4cff-a75a-b708ab69997b", "f0dccb0c-c17a-4fcb-a89f-fe4bdfa3356d", "fdd93623-31c8-487b-8554-d6c6b25af5f6" ],
+  "title": "A methodology for the physically accurate visualisation of roman polychrome statuary",
+  "venue": "visual analytics science and technology",
+  "year": 2011,
+  "id": "001c58d3-26ad-46b3-ab3a-c1e557d16821"
+} {
+  "abstract": "This article applied GARCH model instead AR or ARMA model to compare with the standard BP and SVM in forecasting of the four international including two Asian stock markets indices.These models were evaluated on five performance metrics or criteria. Our experimental results showed the superiority of SVM and GARCH models, compared to the standard BP in forecasting of the four international stock markets indices.",
+  "authors": [ "Altaf Hossain", "Faisal Zaman", "Mohammed Nasser", "M. Mufakhkharul Islam" ],
+  "references": [ "2d84c0f2-e656-4ce7-b018-90eda1c132fe", "a083a1b9-8dfb-45d6-99a9-fa30c4a6e9f5" ],
+  "title": "Comparison of GARCH, Neural Network and Support Vector Machine in Financial Time Series Prediction",
+  "venue": "pattern recognition and machine intelligence",
+  "year": 2009,
+  "id": "001c8744-73c4-4b04-9364-22d31a10dbf1"
+} {
+  "authors": [ "Jea-Bum Park", "Byungmok Kim", "Jian Shen", "Sun-Young Kim", "Dae-Seok Rho" ],
+  "references": [ "8c78e4b0-632b-4293-b491-85b1976675e6", "9cdc54f0-f1a0-4422-ac16-d9164d9371ee" ],
+  "title": "Development of Remote Monitoring and Control Device for 50KW PV System Based on the Wireless Network",
+  "venue": "",
+  "year": 2011,
+  "id": "00338203-9eb3-40c5-9f31-cbac73a519ec"
+} {
+  "authors": [ "Giovanna Guerrini", "Isabella Merlo" ],
+  "title": "Reasonig about Set-Oriented Methods in Object Databases.",
+  "venue": "",
+  "year": 1998,
+  "id": "0040b022-1472-4f70-a753-74832df65266"
+} {
+  "authors": [ "Rafael \u00c1lvarez", "Leandro Tortosa", "Jos\u00e9-Francisco Vicent", "Antonio Zamora" ],
+  "title": "COMPARING GNG3D AND QUADRIC ERROR METRICS METHODS TO SIMPLIFY 3D MESHES",
+  "venue": "international conference on computer graphics theory and applications",
+  "year": 2009,
+  "id": "005ce28f-ed77-4e97-afdc-a296137186a1"
+} {
+  "authors": [ "Jovan Dj. Golic", "Guglielmo Morgari" ],
+  "title": "Vectorial fast correlation attacks.",
+  "venue": "",
+  "year": 2004,
+  "id": "00638a94-23bf-4fa6-b5ce-40d799c65da7"
+} {
+  "authors": [ "Guzin Ulutas", "Mustafa Ulutas", "Vasif V. Nabiyev" ],
+  "references": [ "5626736c-e434-4e2d-8405-54940fab88ab", "8e87e87b-87a8-4dd2-8365-e79fbe1b4b93", "98f543e3-d61c-4099-ae96-237816472592", "99e7103c-1f1c-4ac6-8cb1-e0af35606848" ],
+  "title": "Improved Secret Image Sharing Method By Encoding Shared Values With Authentication Bits",
+  "venue": "international symposium on computer and information sciences",
+  "year": 2011,
+  "id": "00701b05-684f-45f9-b281-425abfec482c"
+} {
+  "authors": [ "Pranay Chaudhuri", "Hussein Thompson" ],
+  "title": "A Self-Stabilizing Algorithm for Finding the Cutting Center of a Tree.",
+  "venue": "parallel and distributed processing techniques and applications",
+  "year": 2003,
+  "id": "00745041-3636-4d18-bbec-783c4278c40d"
+} {
+  "authors": [ "Dominik Szajerman", "Adam Jurczy\u0144ski" ],
+  "references": [ "3fcd7cdc-20e6-4ea3-a41c-db126fcc5cfe", "bf3a11ca-5c4b-4b26-9b7a-0881b8d0f6c2" ],
+  "title": "Fur Visualisation for Computer Game Engines and Real-Time Rendering",
+  "venue": "international conference on computer vision and graphics",
+  "year": 2014,
+  "id": "00964544-cbe2-4da9-bb5a-03333160eb34"
+} {
+  "abstract": "Recent achievements in Natural Language Processing (NLP) and Psychology invoke the challenges to identify the insight of emotions. In the present study, we have identified different psychology related theme words while analyzing emotions on the interview data of ISEAR (International Survey of Emotion Antecedents and Reactions) research group. Primarily, we have developed a Graphical User Interface (GUI) to generate visual graphs for analyzing the impact of emotions with respect to different background, behavioral and physiological variables available in the ISEAR dataset. We have discussed some of the interesting results as observed from the generated visual graphs. On the other hand, different text clusters are identified from the interview statements by selecting individual as well as different combinations of the variables. Such textual clusters are used not only for retrieving the psychological theme words but also to classify the theme words into their respective emotion classes. In order to retrieve the psychological theme words from the text clusters, we have developed a rule based baseline system considering unigram based keyword spotting technique. The system has been evaluated based on a Top-n ranking strategy (where n=10, 20 or 30 most frequent theme words). Overall, the system achieves the average F-Scores of .42, .32, .36, .42, .35, .40 and .40 in identifying theme words with respect to Joy, Anger, Disgust, Fear, Guilt, Sadness and Shame emotion classes, respectively.",
+  "authors": [ "Ankita Brahmachari", "Priya Singh", "Avdhesh Garg", "Dipankar Das" ],
+  "references": [ "84d47128-58d0-4187-aa44-389fde7d5c83", "e0dce69e-5bb6-4835-a624-066f5cd0420b", "f4b32fa0-8bc6-422b-999c-d2c32e261e1f" ],
+  "title": "Identifying Psychological Theme Words from Emotion Annotated Interviews",
+  "venue": "",
+  "year": 2013,
+  "id": "00a119c4-d367-4607-b3c8-b237f2971bff"
+} {
+  "authors": [ "David Al-Dabass", "Christopher Goodwin", "K. Sivayoganathan" ],
+  "title": "Simulation of a vision steering system for road vehicles",
+  "venue": "",
+  "year": 1995,
+  "id": "00ba1eb4-d1aa-4587-892b-d9dcc38c1a78"
+} {
+  "abstract": "Recently, Bridges and Reich introduced the concept of multisymplectic spectral discretizations for Hamiltonian wave equations with periodic boundary conditions [5]. In this paper, we show that the ID nonlinear Schrodinger equation and the 2D Gross-Pitaevskii equation are multi-symplectic and derive multi-symplectic spectral discretizations of these systems. The effectiveness of the discretizations is numerically tested using initial data for multi-phase solutions.",
+  "authors": [ "Alvaro L. Islas", "Constance M. Schober" ],
+  "references": [],
+  "title": "Multisymplectic Spectral Methods for the Gross-Pitaevskii Equation",
+  "venue": "international conference on conceptual structures",
+  "year": 2002,
+  "id": "00bcf2d5-1592-46b0-81fd-933f90b5ecca"
+} {
+  "abstract": "Most applications of the abstract interpretation framework[2] have been foranalyzing functional programs use functions on abstract values to approxi-mate functions, thus assuming that functions may be called at all arguments.When the abstract domain is \ufb01nite, this approach can easily be generalizedto higher order functional languages as shown for example by [1]. In practicethis leads to combinatorial explosion problems as observed, for example, instrictness analysis of higher order functional languages.",
+  "authors": [ "Patrick Cousot", "Radhia Cousot" ],
+  "references": [ "6e8a3ec3-9a99-4fac-ac4d-f8d1bf0fa208", "7bb71afa-91b8-46e7-9008-da84e0427b93", "838d99b5-5b05-41a8-adc7-a597195fefad", "9a4984f9-27d4-47eb-8bc8-0469bf540f94", "afa6d820-c762-4285-a25d-9dd985929ec3" ],
+  "title": "Relational Abstract Interpretation of Higher Order Functional Programs (extended abstract)",
+  "venue": "",
+  "year": 1991,
+  "id": "00c85316-bddf-4bcb-93f5-097adadd73c2"
+} {
+  "abstract": "Three speech training systems for hearing-impaired children were designed and constructed using a minicomputer and a microprocessor. The first system displays the lateral shape of the vocal tract for each vowel estimated from the speech sound. In this system, three storages are prepared. One of them can be used to store a reference shape which may be estimated from a teacher's voice or a prepared standard shape. A child can articulate seeing the reference shape and re-articulate comparing his own first articulation with the reference shape. The system can also compare the estimated shape with the reference one and produce instructions with animated cartoons which show where any articulatory defects exist. The second system displays successively the lateral shapes for articulation of any phoneme sequences containing consonants. The third system displays the first two formant frequencies extracted from speech as a spot on the F1-F2 plane, where the regions of vowels are shown in color. Preliminary use of these devices has shown that they complement each other to form a more effective system of speech training.",
+  "authors": [ "Minoru Shigenaga", "Yoshihiro Sekiguchi" ],
+  "title": "Speech training systems using lateral shapes of vocal tract and F1-F2 diagram for hearing-impaired children",
+  "venue": "international joint conference on artificial intelligence",
+  "year": 1979,
+  "id": "00ca027b-5174-40fa-bf63-9a97c2a5f518"
+} {
+  "authors": [ "Reiko Heckel", "Tom Mens", "Michel Wermelinger" ],
+  "title": "Software Evolution through Transformations.",
+  "venue": "Electronic Notes in Theoretical Computer Science",
+  "year": 2003,
+  "id": "00dc2bba-3237-4d4e-b541-1205b97df981"
+}

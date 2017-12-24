@@ -1,0 +1,159 @@
+#*Tree Search and Quantum Computation.
+#@Luís Tarrataca, Andreas Wichert
+#t2015
+#cCoRR
+#index53e9b5f4b7602d97041480fb
+#%53e9b98ab7602d970457b920
+#%53e9a060b7602d9702945d27
+#%53e99b36b7602d97023d5011
+#%53e9af87b7602d97039d0de6
+#%53e99905b7602d97021425d8
+#%53e9a0a5b7602d970298b176
+#%53e9a8ccb7602d9703219438
+#%53e99a6eb7602d97022def09
+#%53e997a2b7602d9701f726ca
+#%53e9b84ab7602d970440dcf4
+#%53e9b937b7602d9704522d13
+#%53e9b1ddb7602d9703c71864
+#%53e997c6b7602d9701fb79f5
+#%53e9b9b9b7602d97045ab028
+#%53e99833b7602d9702058790
+#%53e9ac62b7602d9703630d69
+#%53e99960b7602d97021a278e
+#%53e9ab4fb7602d97034e0dea
+#%53e9b11db7602d9703b9f622
+#%53e9a7d5b7602d9703112ad8
+#%53e9ad33b7602d9703714a8c
+
+#*Hands Deep in Deep Learning for Hand Pose Estimation.
+#@Markus Oberweger, Paul Wohlhart, Vincent Lepetit
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b47f
+
+#*The "Tournaments" Metaphor in Citation Impact Studies: Power-Weakness Ratios (PWR) as a Journal Indicator.
+#@Loet Leydesdorff, Wouter de Nooy, Lutz Bornmann, Gangan Prathap
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b47e
+
+#*Optimal Cell Load and Throughput in Green Small Cell Networks with Generalized Cell Association.
+#@Chun-Hung Liu, Li-Chun Wang
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b47d
+
+#*Personalized Medical Treatments Using Novel Reinforcement Learning Algorithms.
+#@Yousuf M. Soliman
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b47c
+
+#*Max-Product Belief Propagation for Linear Programming: Convergence and Correctness.
+#@Sejun Park, Jinwoo Shin
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b47b
+
+#*Real-time Monocular Object SLAM.
+#@Dorian Gálvez-López, Marta Salas, Juan D. Tardós, J. M. M. Montiel
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b47a
+
+#*Information-theoretic considerations concerning the origin of life.
+#@Christoph Adami
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b479
+
+#*Non-Monotonic Reasoning and Story Comprehension.
+#@Irene-Anna Diakidoy, Antonis C. Kakas, Loizos Michael, Rob Miller 0002
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b478
+
+#*An Unsupervised Learning Method for Early Event Detection in Smart Grid with Big Data.
+#@Xing He, Robert Caiming Qiu, Qian Ai, Xinyi Xu
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b46f
+
+#*Learning Immune-Defectives Graph through Group Tests.
+#@Abhinav Ganesan, Sidharth Jaggi, Venkatesh Saligrama
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b46e
+
+#*Video Text Localization with an emphasis on Edge Features.
+#@B. H. Shekar, L. Smitha M.
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b46d
+
+#*Sliding window-based Contention Resolution Diversity Slotted ALOHA.
+#@Alessio Meloni, Maurizio Murroni, Christian Kissling, Matteo Berioli
+#t2015
+#cCoRR
+#index53e9a41cb7602d9702d37e2b
+
+#*Quantitative Analysis of Probabilistic Models of Software Product Lines with Statistical Model Checking.
+#@Maurice H. ter Beek, Axel Legay, Alberto Lluch-Lafuente, Andrea Vandin
+#t2015
+#cFMSPLE
+#index5550417145ce0a409eb3b46b
+
+#*Coordination in distributed networks via coded actions with application to power control.
+#@Benjamin Larrousse, Samson Lasaulce, Matthieu Bloch
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b46a
+
+#*Proximal Algorithms in Statistics and Machine Learning.
+#@Nicholas G. Polson, James G. Scott, Brandon T. Willard
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b469
+
+#*Word-Sense Disambiguation Using Decomposable Models.
+#@Rebecca F. Bruce, Janyce Wiebe
+#t1994
+#cCoRR
+#index53e9a423b7602d9702d3db3a
+#%53e9b97cb7602d970456cbc6
+#%53e9a81fb7602d970316393e
+#%53e997bab7602d9701fa1ace
+#%53e9a2d6b7602d9702bdfd24
+#%53e99a20b7602d9702279500
+#%53e9a423b7602d9702d3dca1
+#%53e9a5b7b7602d9702ee25e4
+#%53e9aaa9b7602d9703424d7a
+#%53e99f94b7602d970286a80e
+#%53e99e69b7602d970272bde4
+
+#*Parameterized Complexity of Superstring Problems.
+#@Ivan Bliznets, Fedor V. Fomin, Petr A. Golovach, Nikolay Karpov, Alexander S. Kulikov, Saket Saurabh
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4f6
+
+#*Single Pass Spectral Sparsification in Dynamic Streams.
+#@Michael Kapralov, Yin Tat Lee, Cameron Musco, Christopher Musco, Aaron Sidford
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f5
+
+#*Efficient Design of Reversible Sequential Circuit.
+#@Md. Selim Al Mamun, Indrani Mandal, Md. Hasanuzzaman
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f4
+
+#*SocialDTN: A DTN implementation for Digital and Social Inclusion.
+#@Waldir Aranha Moreira Junior, Ronedo Ferreira, Douglas Cirqueira, Paulo Mendes, Eduardo Cerqueira
+#t2014
+#cCoRR
+#index53e9a0fbb7602d97029e91c3
+#%53e99bdcb7602d9702485738
+#%53e9b12ab7602d9703bad962
+#%53e9ae17b7602d970382743c
