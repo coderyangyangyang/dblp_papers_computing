@@ -3,6 +3,7 @@ import networkx as nx
 import string
 import matplotlib.pyplot as plt
 import test2
+import sys
 
 #DG=nx.DiGraph()
 def json_to_gml(filepath):
@@ -108,9 +109,26 @@ def argument_test(a):
     a+=1
 def string_split_test():
     a="426938	26167	1964-08-24	10.1103/PhysRevLett.13.275	localized vibrations of phosphorus and aluminum impurities in gasb,w. hayes\n"
-    a=a.strip("\n")
-    a_list=a.split(maxsplit = 1)
-    print(a_list)
+    #a=a.strip("\n")
+    #a_list=a.split(maxsplit = 1)
+    #print(a_list)
+    c=a.split(maxsplit=1)[0]
+    print(c)
+    b=range(3,10)
+    print(type(b))
+    print(b)
+    print(b[0])
+def f(x,l=[]):
+    for i in range(x):
+        l.append(i*i)
+    print(l)
+
+def list_init_test():
+    a=[0]*10
+    for i in range(len(a)):
+        a[i]+=1
+    print(a)
+
 def main():
     #json_to_gml("info.dat")
     #print(type(1))
@@ -123,7 +141,18 @@ def main():
     #print(b)
     #graph_attributes_test()
     #print_a()
-    string_split_test()
+    #string_split_test()
+    #a=f(2)
+    #c=sys.getrefcount(f(2))
+    #print(c)
+    #for i in range(36051):
+    #    Py_DECREF(a)
+    #f(3,[3,2,1])
+    #print(sys.getrefcount(f(3,[3,2,1])))
+    #f(3)
+    list_init_test()
+    #print(sys.getrefcount(f(3)))
+
 def graph_attributes_test():
     DG=nx.read_gml("test_graph1.gml")
     for node in DG:
